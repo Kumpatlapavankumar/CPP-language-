@@ -1,5 +1,5 @@
 //comment
-//Comments means-It is not print but it is in that code
+//Comments means-It is not read by the computer it is just visible who is seen the code to understand it 
 //Comments-two type
 //single line-//
 #include<iostream>
