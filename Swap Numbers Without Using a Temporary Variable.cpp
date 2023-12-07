@@ -11,7 +11,7 @@ int main()
 
 	cout << "Before swapping a = " << a << " , b = " << b
 		<< endl;
-
+        //we can use another temp variable also to do swap
 	// applying algorithm
 	b = a + b;
 	a = b - a;
