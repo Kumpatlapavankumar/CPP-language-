@@ -1,12 +1,10 @@
-// CPP Program to demonstrate the Bitwise Operators
+
 #include <iostream>
 using namespace std;
 
 int main()
 {
-	int a = 6, b = 4;
-
-	// Binary AND operator
+	int a = 6, b =12;
 	cout << "a & b is " << (a & b) << endl;
 
 	// Binary OR operator
